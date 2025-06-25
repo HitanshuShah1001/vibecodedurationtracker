@@ -80,7 +80,6 @@ const ProgressTracker = () => {
   };
 
   const mainCardStyle = {
-    width: "100%",
     maxWidth: "28rem",
     margin: "0 auto",
     background: "rgba(255, 255, 255, 0.05)",
